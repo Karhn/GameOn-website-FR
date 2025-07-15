@@ -199,5 +199,4 @@ form.addEventListener("submit", (event) => {
   confirmationContent.style.display = "flex";
   form.reset();
   event.preventDefault();
-
 });
